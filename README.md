@@ -20,3 +20,15 @@ The AI that gives a score to each picture was build using a CNN using Pytorch.
 The model was trained on 200k images (image CelebA) with an accuracy between 75 and 80%.
 
 You can just click SORT and sort the pictures.
+
+# Run model
+
+first install:
+torch===1.7.1 
+torchvision===0.8.2 
+torchaudio===0.7.2
+pygame 
+openCV
+
+Run model:
+Just run the main notebook and you can change the images 
